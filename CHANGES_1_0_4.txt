@@ -1,0 +1,6 @@
+DronePatrol 1.0.4
+
+- Fixed crash caused by missing zig_speed/zig_amp keys on some enemy dictionaries.
+- Boss enemies now include zigzag fields safely.
+- Group spawning reworked: vehicles no longer spawn in packs or overlap.
+- Enemy formation spacing improved to prevent stacking.

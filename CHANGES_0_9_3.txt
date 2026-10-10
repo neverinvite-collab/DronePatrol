@@ -1,0 +1,6 @@
+DronePatrol 0.9.3
+
+- Removed the bottom launch hint area.
+- Moved the hint into a cleaner top notification panel.
+- Lowered the gameplay UI block slightly to reveal more battlefield.
+- Tidied the top HUD for a cleaner look.

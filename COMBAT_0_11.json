@@ -1,0 +1,56 @@
+{
+  "mode": "normal",
+  "seed": "33+stage",
+  "bot": "collects all crates and attacks unmatched live targets every 0.3s; prefers heavy if needed; stage-scaled upgrades",
+  "samples": [
+    {
+      "stage": 1,
+      "seconds": 33.6,
+      "base_hp_remaining": 100,
+      "kills": 10
+    },
+    {
+      "stage": 8,
+      "seconds": 83.6,
+      "base_hp_remaining": 100,
+      "kills": 24
+    },
+    {
+      "stage": 10,
+      "seconds": 101.8,
+      "base_hp_remaining": 100,
+      "kills": 29
+    },
+    {
+      "stage": 20,
+      "seconds": 192.4,
+      "base_hp_remaining": 120,
+      "kills": 50
+    },
+    {
+      "stage": 30,
+      "seconds": 140.7,
+      "base_hp_remaining": 120,
+      "kills": 49
+    },
+    {
+      "stage": 40,
+      "seconds": 127.9,
+      "base_hp_remaining": 140,
+      "kills": 49
+    },
+    {
+      "stage": 50,
+      "seconds": 151.2,
+      "base_hp_remaining": 140,
+      "kills": 51
+    },
+    {
+      "stage": 60,
+      "seconds": 118.5,
+      "base_hp_remaining": 140,
+      "kills": 49
+    }
+  ],
+  "limitations": "8 sample levels; ideal bot; no human usability, hardware performance or full campaign economy validation"
+}

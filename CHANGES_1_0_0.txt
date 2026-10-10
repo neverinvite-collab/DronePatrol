@@ -1,0 +1,8 @@
+DronePatrol 1.0.0
+
+- Harder enemy balance with 2-3 unit groups.
+- Infantry and special enemies have more HP; some require several hits.
+- Added zig-zag movement.
+- Added camouflage/kikimora infantry, medic enemy, and mini-boss every 5 levels.
+- Vehicles have more varied speed.
+- Added extra rewards for special kills.

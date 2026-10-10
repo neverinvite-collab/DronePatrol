@@ -1,0 +1,5 @@
+DronePatrol 1.0.2
+- Moved base 37 px downward; moved HP bar and drone launch origin accordingly.
+- Aligned bottom button rows within control panel.
+- Fixed general: appears independent of unavailable voice WAV files.
+- Night and recon mechanics preserved.

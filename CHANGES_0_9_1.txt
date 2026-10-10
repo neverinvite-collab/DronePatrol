@@ -1,0 +1,6 @@
+DronePatrol 0.9.1
+
+- Lowered the bottom UI block to show more battlefield.
+- Added a subtle frame around the game screen.
+- Added Godot cache cleaning scripts.
+- Legacy unclear voice pack is disabled. Only a future voices_v2 pack will play.

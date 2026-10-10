@@ -1,0 +1,6 @@
+DronePatrol 1.0.1
+
+- Added night-operation levels.
+- Distant enemies are hidden during night missions.
+- Recon drone now reveals hidden enemies for several seconds.
+- Added night-mission hints in briefing and HUD.

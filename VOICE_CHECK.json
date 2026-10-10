@@ -1,0 +1,224 @@
+{
+  "version": "0.8.0",
+  "fallback_engine": "eSpeak NG",
+  "runtime_preference": "system TTS matching selected language",
+  "device_listening_test": false,
+  "clips": [
+    {
+      "file": "en_banter_0.wav",
+      "seconds": 3.329,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "en_banter_1.wav",
+      "seconds": 3.705,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "en_banter_2.wav",
+      "seconds": 3.136,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "en_boss.wav",
+      "seconds": 2.783,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "en_empty.wav",
+      "seconds": 3.118,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "en_hit.wav",
+      "seconds": 3.281,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "en_hurt.wav",
+      "seconds": 3.546,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "en_launch.wav",
+      "seconds": 3.441,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "en_loot.wav",
+      "seconds": 3.032,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "en_lose.wav",
+      "seconds": 2.521,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "en_ready.wav",
+      "seconds": 3.212,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "en_win.wav",
+      "seconds": 3.203,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "ru_banter_0.wav",
+      "seconds": 3.223,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "ru_banter_1.wav",
+      "seconds": 3.3,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "ru_banter_2.wav",
+      "seconds": 3.047,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "ru_boss.wav",
+      "seconds": 2.933,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "ru_empty.wav",
+      "seconds": 2.756,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "ru_hit.wav",
+      "seconds": 2.858,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "ru_hurt.wav",
+      "seconds": 2.942,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "ru_launch.wav",
+      "seconds": 2.784,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "ru_loot.wav",
+      "seconds": 2.81,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "ru_lose.wav",
+      "seconds": 2.805,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "ru_ready.wav",
+      "seconds": 3.128,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "ru_win.wav",
+      "seconds": 2.893,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "uk_banter_0.wav",
+      "seconds": 2.918,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "uk_banter_1.wav",
+      "seconds": 3.386,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "uk_banter_2.wav",
+      "seconds": 2.87,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "uk_boss.wav",
+      "seconds": 2.672,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "uk_empty.wav",
+      "seconds": 3.459,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "uk_hit.wav",
+      "seconds": 2.542,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "uk_hurt.wav",
+      "seconds": 2.743,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "uk_launch.wav",
+      "seconds": 2.492,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "uk_loot.wav",
+      "seconds": 2.204,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "uk_lose.wav",
+      "seconds": 2.753,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "uk_ready.wav",
+      "seconds": 2.906,
+      "sample_rate": 22050,
+      "channels": 1
+    },
+    {
+      "file": "uk_win.wav",
+      "seconds": 2.448,
+      "sample_rate": 22050,
+      "channels": 1
+    }
+  ]
+}

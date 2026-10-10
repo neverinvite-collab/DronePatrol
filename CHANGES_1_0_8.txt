@@ -1,0 +1,5 @@
+DronePatrol 1.0.8
+
+- Aligned bottom HUD buttons into a more even grid.
+- Switched boss rendering to explicit atlas-region drawing to avoid white-square rendering.
+- Kept indentation safe (spaces only).

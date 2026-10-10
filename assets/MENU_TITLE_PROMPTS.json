@@ -1,0 +1,17 @@
+[
+  {
+    "edition": 1,
+    "prompt": "Use case: logo-brand. Asset type: transparent menu title sprite for a colorful top-down mobile defense game. Create ONE wide centered title emblem, transparent background, no rectangular background. Main exact Ukrainian text \"ДРОН-ПАТРУЛЬ\", smaller subtitle \"ЗЕЛЕНИЙ РУБІЖ\". Readable bold Cyrillic type, warm ivory main letters with dark outline, illustrated olive military metal trim and small quadcopter silhouette. Green foliage and bronze trim. Horizontal composition about 3:1 with all lettering within generous margins, no other text, no watermark. This is one title, not a sheet.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "edition": 2,
+    "prompt": "Use case: logo-brand. Asset type: transparent menu title sprite for a colorful top-down mobile defense game. Create ONE wide centered title emblem, transparent background, no rectangular background. Main exact Ukrainian text \"ДРОН-ПАТРУЛЬ\", smaller subtitle \"СТАЛЕВИЙ НАТИСК\". Readable bold Cyrillic type, warm ivory main letters with dark outline, illustrated olive military metal trim and small quadcopter silhouette. Gunmetal steel and amber trim. Horizontal composition about 3:1 with all lettering within generous margins, no other text, no watermark. This is one title, not a sheet.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "edition": 3,
+    "prompt": "Use case: logo-brand. Asset type: transparent menu title sprite for a colorful top-down mobile defense game. Create ONE wide centered title emblem, transparent background, no rectangular background. Main exact Ukrainian text \"ДРОН-ПАТРУЛЬ\", smaller subtitle \"КРИЖАНИЙ ФРОНТ\". Readable bold Cyrillic type, warm ivory main letters with dark outline, illustrated olive military metal trim and small quadcopter silhouette. Ice-blue metal and snow accents. Horizontal composition about 3:1 with all lettering within generous margins, no other text, no watermark. This is one title, not a sheet.",
+    "mode": "built-in image_gen"
+  }
+]

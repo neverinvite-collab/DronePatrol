@@ -1,0 +1,5 @@
+DronePatrol 1.0.9
+
+- Boss rendering rewritten to use direct boss_0..boss_5 PNG sprites.
+- This avoids atlas-region rendering issues that could show a white square.
+- Preserved no-tab indentation.

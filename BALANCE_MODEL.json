@@ -1,0 +1,566 @@
+[
+  {
+    "checkpoints": [
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": false,
+          "teeth": false,
+          "wire": false
+        },
+        "rank": 2,
+        "rp": 1,
+        "stage": 1,
+        "upgrade_ranks": {
+          "armor": 0,
+          "motor": 0,
+          "optics": 0,
+          "supply": 0
+        },
+        "wallet": 31,
+        "xp": 85
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": false,
+          "teeth": false,
+          "wire": false
+        },
+        "rank": 3,
+        "rp": 1,
+        "stage": 4,
+        "upgrade_ranks": {
+          "armor": 1,
+          "motor": 0,
+          "optics": 0,
+          "supply": 0
+        },
+        "wallet": 64,
+        "xp": 396
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": false,
+          "teeth": false,
+          "wire": true
+        },
+        "rank": 5,
+        "rp": 0,
+        "stage": 8,
+        "upgrade_ranks": {
+          "armor": 1,
+          "motor": 1,
+          "optics": 1,
+          "supply": 0
+        },
+        "wallet": 18,
+        "xp": 941
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": false,
+          "teeth": false,
+          "wire": true
+        },
+        "rank": 6,
+        "rp": 0,
+        "stage": 10,
+        "upgrade_ranks": {
+          "armor": 1,
+          "motor": 1,
+          "optics": 1,
+          "supply": 1
+        },
+        "wallet": 90,
+        "xp": 1307
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": true,
+          "teeth": false,
+          "wire": true
+        },
+        "rank": 10,
+        "rp": 0,
+        "stage": 18,
+        "upgrade_ranks": {
+          "armor": 2,
+          "motor": 2,
+          "optics": 2,
+          "supply": 1
+        },
+        "wallet": 198,
+        "xp": 2998
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": true,
+          "teeth": true,
+          "wire": true
+        },
+        "rank": 12,
+        "rp": 0,
+        "stage": 24,
+        "upgrade_ranks": {
+          "armor": 2,
+          "motor": 2,
+          "optics": 2,
+          "supply": 2
+        },
+        "wallet": 644,
+        "xp": 4643
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": true,
+          "mine_vehicle": false,
+          "spikes": true,
+          "teeth": true,
+          "wire": true
+        },
+        "rank": 14,
+        "rp": 0,
+        "stage": 30,
+        "upgrade_ranks": {
+          "armor": 3,
+          "motor": 2,
+          "optics": 2,
+          "supply": 2
+        },
+        "wallet": 1040,
+        "xp": 6447
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": true,
+          "mine_vehicle": true,
+          "spikes": true,
+          "teeth": true,
+          "wire": true
+        },
+        "rank": 24,
+        "rp": 6,
+        "stage": 60,
+        "upgrade_ranks": {
+          "armor": 3,
+          "motor": 3,
+          "optics": 3,
+          "supply": 3
+        },
+        "wallet": 4560,
+        "xp": 17686
+      }
+    ],
+    "mode": 0,
+    "research_spend": 3020,
+    "unlocks": {
+      "armor": 2,
+      "battery": 7,
+      "double": 24,
+      "explosive": 6,
+      "fpv": 1,
+      "heavy": 8,
+      "mine_soldier": 26,
+      "mine_vehicle": 41,
+      "motor": 3,
+      "normal": 1,
+      "optics": 6,
+      "pulse": 18,
+      "recon": 4,
+      "repair": 2,
+      "shield": 13,
+      "slow": 5,
+      "spikes": 12,
+      "supply": 4,
+      "teeth": 24,
+      "wire": 7
+    }
+  },
+  {
+    "checkpoints": [
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": false,
+          "teeth": false,
+          "wire": false
+        },
+        "rank": 2,
+        "rp": 1,
+        "stage": 1,
+        "upgrade_ranks": {
+          "armor": 0,
+          "motor": 0,
+          "optics": 0,
+          "supply": 0
+        },
+        "wallet": 31,
+        "xp": 100
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": false,
+          "teeth": false,
+          "wire": false
+        },
+        "rank": 4,
+        "rp": 2,
+        "stage": 4,
+        "upgrade_ranks": {
+          "armor": 1,
+          "motor": 0,
+          "optics": 0,
+          "supply": 0
+        },
+        "wallet": 64,
+        "xp": 466
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": false,
+          "teeth": false,
+          "wire": true
+        },
+        "rank": 6,
+        "rp": 1,
+        "stage": 8,
+        "upgrade_ranks": {
+          "armor": 1,
+          "motor": 1,
+          "optics": 1,
+          "supply": 0
+        },
+        "wallet": 18,
+        "xp": 1108
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": false,
+          "teeth": false,
+          "wire": true
+        },
+        "rank": 7,
+        "rp": 1,
+        "stage": 10,
+        "upgrade_ranks": {
+          "armor": 1,
+          "motor": 1,
+          "optics": 1,
+          "supply": 1
+        },
+        "wallet": 90,
+        "xp": 1538
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": true,
+          "teeth": true,
+          "wire": true
+        },
+        "rank": 11,
+        "rp": 0,
+        "stage": 18,
+        "upgrade_ranks": {
+          "armor": 2,
+          "motor": 2,
+          "optics": 2,
+          "supply": 1
+        },
+        "wallet": 58,
+        "xp": 3526
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": true,
+          "mine_vehicle": false,
+          "spikes": true,
+          "teeth": true,
+          "wire": true
+        },
+        "rank": 13,
+        "rp": 0,
+        "stage": 24,
+        "upgrade_ranks": {
+          "armor": 2,
+          "motor": 2,
+          "optics": 2,
+          "supply": 2
+        },
+        "wallet": 484,
+        "xp": 5462
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": true,
+          "mine_vehicle": true,
+          "spikes": true,
+          "teeth": true,
+          "wire": true
+        },
+        "rank": 16,
+        "rp": 0,
+        "stage": 30,
+        "upgrade_ranks": {
+          "armor": 3,
+          "motor": 3,
+          "optics": 2,
+          "supply": 2
+        },
+        "wallet": 600,
+        "xp": 7584
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": true,
+          "mine_vehicle": true,
+          "spikes": true,
+          "teeth": true,
+          "wire": true
+        },
+        "rank": 26,
+        "rp": 8,
+        "stage": 60,
+        "upgrade_ranks": {
+          "armor": 3,
+          "motor": 3,
+          "optics": 3,
+          "supply": 3
+        },
+        "wallet": 4560,
+        "xp": 20808
+      }
+    ],
+    "mode": 1,
+    "research_spend": 3020,
+    "unlocks": {
+      "armor": 2,
+      "battery": 7,
+      "double": 24,
+      "explosive": 6,
+      "fpv": 1,
+      "heavy": 8,
+      "mine_soldier": 24,
+      "mine_vehicle": 26,
+      "motor": 3,
+      "normal": 1,
+      "optics": 6,
+      "pulse": 18,
+      "recon": 4,
+      "repair": 2,
+      "shield": 12,
+      "slow": 5,
+      "spikes": 12,
+      "supply": 4,
+      "teeth": 13,
+      "wire": 7
+    }
+  },
+  {
+    "checkpoints": [
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": false,
+          "teeth": false,
+          "wire": false
+        },
+        "rank": 2,
+        "rp": 1,
+        "stage": 1,
+        "upgrade_ranks": {
+          "armor": 0,
+          "motor": 0,
+          "optics": 0,
+          "supply": 0
+        },
+        "wallet": 31,
+        "xp": 115
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": false,
+          "teeth": false,
+          "wire": false
+        },
+        "rank": 4,
+        "rp": 2,
+        "stage": 4,
+        "upgrade_ranks": {
+          "armor": 1,
+          "motor": 0,
+          "optics": 0,
+          "supply": 0
+        },
+        "wallet": 64,
+        "xp": 536
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": false,
+          "teeth": false,
+          "wire": true
+        },
+        "rank": 6,
+        "rp": 1,
+        "stage": 8,
+        "upgrade_ranks": {
+          "armor": 1,
+          "motor": 1,
+          "optics": 1,
+          "supply": 0
+        },
+        "wallet": 18,
+        "xp": 1275
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": false,
+          "mine_vehicle": false,
+          "spikes": false,
+          "teeth": false,
+          "wire": true
+        },
+        "rank": 7,
+        "rp": 1,
+        "stage": 10,
+        "upgrade_ranks": {
+          "armor": 1,
+          "motor": 1,
+          "optics": 1,
+          "supply": 1
+        },
+        "wallet": 90,
+        "xp": 1769
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": true,
+          "mine_vehicle": false,
+          "spikes": true,
+          "teeth": true,
+          "wire": true
+        },
+        "rank": 11,
+        "rp": 0,
+        "stage": 18,
+        "upgrade_ranks": {
+          "armor": 2,
+          "motor": 2,
+          "optics": 1,
+          "supply": 1
+        },
+        "wallet": 138,
+        "xp": 4054
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": true,
+          "mine_vehicle": true,
+          "spikes": true,
+          "teeth": true,
+          "wire": true
+        },
+        "rank": 14,
+        "rp": 0,
+        "stage": 24,
+        "upgrade_ranks": {
+          "armor": 2,
+          "motor": 2,
+          "optics": 2,
+          "supply": 2
+        },
+        "wallet": 284,
+        "xp": 6281
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": true,
+          "mine_vehicle": true,
+          "spikes": true,
+          "teeth": true,
+          "wire": true
+        },
+        "rank": 17,
+        "rp": 0,
+        "stage": 30,
+        "upgrade_ranks": {
+          "armor": 3,
+          "motor": 3,
+          "optics": 2,
+          "supply": 3
+        },
+        "wallet": 300,
+        "xp": 8721
+      },
+      {
+        "defense_technologies": {
+          "mine_soldier": true,
+          "mine_vehicle": true,
+          "spikes": true,
+          "teeth": true,
+          "wire": true
+        },
+        "rank": 28,
+        "rp": 10,
+        "stage": 60,
+        "upgrade_ranks": {
+          "armor": 3,
+          "motor": 3,
+          "optics": 3,
+          "supply": 3
+        },
+        "wallet": 4560,
+        "xp": 23930
+      }
+    ],
+    "mode": 2,
+    "research_spend": 3020,
+    "unlocks": {
+      "armor": 2,
+      "battery": 7,
+      "double": 24,
+      "explosive": 6,
+      "fpv": 1,
+      "heavy": 8,
+      "mine_soldier": 18,
+      "mine_vehicle": 24,
+      "motor": 3,
+      "normal": 1,
+      "optics": 6,
+      "pulse": 18,
+      "recon": 4,
+      "repair": 2,
+      "shield": 12,
+      "slow": 5,
+      "spikes": 12,
+      "supply": 4,
+      "teeth": 13,
+      "wire": 7
+    }
+  }
+]

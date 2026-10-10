@@ -1,0 +1,1 @@
+Speech clarity pass: WAV dialogue speed reduced 10%, filtered, compressed and loudness-normalized; native TTS slower; stronger ducking of music and effects during dialogue. No permanent voice subtitles.

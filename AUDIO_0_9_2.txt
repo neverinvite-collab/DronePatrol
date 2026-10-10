@@ -1,0 +1,1 @@
+Godot 0.9.2 sound update: locally synthesized new explosions, pulse, launcher, rotor, engine, siren for boss and 3 20s atmospheric music tracks. Old voices stay disabled. No 3rd party samples. Clear .godot import cache if needed.

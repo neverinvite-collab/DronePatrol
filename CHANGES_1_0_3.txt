@@ -1,0 +1,6 @@
+DronePatrol 1.0.3
+
+- Restored general voice playback using legacy voice assets as fallback.
+- Cleaned and re-centered bonus/loot sprites to remove bad cut edges.
+- Reworked medic visual marker into a small medic backpack icon.
+- Reduced zig-zag amplitude so enemies move more naturally downward.

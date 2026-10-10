@@ -1,0 +1,44 @@
+{
+  "uk": {
+    "ready": "Так, герої! Каву після бою!",
+    "launch": "Лети! Тільки не в мій обід!",
+    "hit": "Влучно! Навіть вуса зраділи!",
+    "loot": "Припаси! А печиво де?",
+    "hurt": "Базу бережіть! Там моя кава!",
+    "empty": "Порожньо! Хто зʼїв припаси?",
+    "win": "Перемога! Усім по печиву!",
+    "lose": "Нічого! Вуса не здаються!",
+    "boss": "Бос! Оце так великий сусід!",
+    "banter_0": "Спокійно! Я майже не панікую!",
+    "banter_1": "Працюємо! Кава сама не захиститься!",
+    "banter_2": "План простий! Базу не віддаємо!"
+  },
+  "ru": {
+    "ready": "Так, герои! Кофе после боя!",
+    "launch": "Лети! Только не в мой обед!",
+    "hit": "Метко! Даже усы обрадовались!",
+    "loot": "Припасы! А печенье где?",
+    "hurt": "Базу берегите! Там мой кофе!",
+    "empty": "Пусто! Кто съел припасы?",
+    "win": "Победа! Всем по печенью!",
+    "lose": "Ничего! Усы не сдаются!",
+    "boss": "Босс! Вот это большой сосед!",
+    "banter_0": "Спокойно! Я почти не паникую!",
+    "banter_1": "Работаем! Кофе сам не защитится!",
+    "banter_2": "План простой! Базу не отдаём!"
+  },
+  "en": {
+    "ready": "Heroes! Coffee after the battle!",
+    "launch": "Fly! Stay away from my lunch!",
+    "hit": "Nice hit! My moustache approves!",
+    "loot": "Supplies! Where are the cookies?",
+    "hurt": "Save the base! My coffee is there!",
+    "empty": "Empty! Who ate the supplies?",
+    "win": "Victory! Cookies for everyone!",
+    "lose": "My moustache never gives up!",
+    "boss": "Boss! What a big neighbour!",
+    "banter_0": "Stay calm! I am almost calm!",
+    "banter_1": "Work! Coffee cannot defend itself!",
+    "banter_2": "Simple plan! Keep the base!"
+  }
+}

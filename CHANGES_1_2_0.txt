@@ -1,0 +1,10 @@
+DronePatrol 1.2.0 – Gameplay
+
+- Spotlight research after campaign level 8/player rank 5; buy charges in store, use during battle for 18 seconds.
+- Damaged vehicles slow down and show smoke; infantry may panic briefly after a nearby impact.
+- Random general side mission each battle: kills, crates, or undamaged streak; achievement after 5 missions.
+- Night missions darken gradually instead of instantly, preserving existing weather effects.
+- Existing language and voice settings preserved.
+- No air delivery added; no duplicate weather effects.
+
+This build was statically inspected but NOT runtime-tested inside the Godot editor.
